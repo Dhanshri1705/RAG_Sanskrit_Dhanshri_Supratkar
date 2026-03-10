@@ -24,7 +24,6 @@ The system is designed to run fully on CPU, making it lightweight and easy to de
 
 # 📂 Project Folder Structure
 
-
 RAG_Sanskrit_Dhanshri_Supratkar/
 │
 ├── code/
