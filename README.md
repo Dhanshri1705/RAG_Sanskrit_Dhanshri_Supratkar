@@ -88,14 +88,6 @@ source venv/bin/activate
 
 ---
 
-3️⃣ Install Required Libraries
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
  ▶️ How to Run the Project
 
 ## Step 1 — Preprocess Sanskrit Documents
