@@ -68,3 +68,5 @@ if __name__ == "__main__":
     print(q)
     print("\n--- Retrieved Chunk ---")
     print(ctx)
+    print("\n--- Answer---")
+    print(ctx)
